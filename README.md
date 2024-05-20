@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 - 💬 Ask me about SQL, Power BI.
 - 📫 Reach me at **[Gmail](mailto:sudireddyruchitha@gmail.com)** - sudireddyruchitha@gmail.com
-- 🔗 Connect with me at **[LinkedIn](https://www.linkedin.com/in/sudireddy-ruchitha-reddy-331547166//)** - www.linkedin.com/in/sudireddy-ruchitha-reddy/
+- 🔗 Connect with me at **[LinkedIn](https://www.linkedin.com/in/sudireddy-ruchitha-reddy-331547166//)** - www.linkedin.com/in/sudireddy-ruchitha-reddy-331547166/
 - ❤️ I love learning new things!
 
 
